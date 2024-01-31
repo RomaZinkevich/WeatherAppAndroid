@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">WeatherApp</string>
+    <string name="app_name">Weather App</string>
+    <string name="sunny">Sunny</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="useless_for_now">(useless for now)</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="forecast">Forecast</string>
+    <string name="tampere">Tampere</string>
 </resources>

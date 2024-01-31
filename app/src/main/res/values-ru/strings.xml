@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="sunny">Солнечно</string>
+    <string name="mon">Пн</string>
+    <string name="tue">Вт</string>
+    <string name="wed">Ср</string>
+    <string name="thu">Чт</string>
+    <string name="fri">Пт</string>
+    <string name="useless_for_now">(пока ничего не делает)</string>
+    <string name="current_weather">Погода Сейчас</string>
+    <string name="forecast">Прогноз</string>
+    <string name="tampere">Тампере</string>
+</resources>
